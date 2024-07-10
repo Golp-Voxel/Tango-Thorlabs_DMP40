@@ -1,0 +1,4 @@
+/tango-env
+*.bat
+setting.ini
+*.code-workspace

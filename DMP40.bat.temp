@@ -1,0 +1,6 @@
+@echo off
+call "C:\ProgramData\anaconda3\condabin\activate.bat"
+
+cd C:\Users\User\Desktop\Golpe_Voxel\Tango-Newport_AG_UC8 
+
+python C:\Users\User\Desktop\Golpe_Voxel\Tango-Newport_AG_UC8\AG_UC8.py 1 2>&1
